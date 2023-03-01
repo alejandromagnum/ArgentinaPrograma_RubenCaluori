@@ -1,0 +1,150 @@
+
+
+
+body {
+  background:url(https://i.ibb.co/t2kKhq5/Dise-o-sin-t-tulo-46.png);
+}
+h1 {
+  
+  color: #fff !important;
+  margin-left: 3px !important;
+}
+h2 {
+  
+  color: #fff;
+}
+
+  .item .item_imagee {
+     width: 296px;
+     float: left;
+    background: none;
+    height: auto;
+    margin-right: 30px;
+    border: 1px solid #E6E6E6;
+padding: 2px; /* grosor de contenedor de imagen post */
+    background: #000000;
+}
+.item .post-outer img {
+    width: 381px;
+}
+
+  
+#PopularPosts2{width: 0px;visibility: hidden;display: none;}
+
+#HTML3{width: 0px;visibility: hidden;display: none;}
+#HTML4{width: 0px;visibility: hidden;display: none;}
+    #HTML5{width: 0px;visibility: hidden;display: none;}
+   #HTML6{width: 0px;visibility: hidden;display: none;}
+#comment-form{width: 0px;visibility: hidden;display: none;} 
+
+#content-wrapper {
+    float: left;
+    width: 100%;
+    background:url(https://i.ibb.co/grPmj5r/fondo2.png);
+ background-attachment: fixed;
+
+}
+ 
+
+  .item_img{width: 0px;visibility: hidden;display: none;} 
+.item_imagee{width: 0px;visibility: hidden;display: none;} 
+  h1.post-title{width: 0px;visibility: hidden;display: none;}
+ 
+ 
+
+  
+
+ @media only screen and (max-width: 600px) {
+
+   .item_img{width: 0px;visibility: hidden;display: none;} 
+.item_imagee{width: 0px;visibility: hidden;display: none;} 
+  h1.post-title{width: 0px;visibility: hidden;display: none;}
+
+
+  }
+   
+ 
+  
+  .col-md-4 {
+    position: relative;
+    width: 100%;
+    padding-right: 0px !important;
+    padding-left: 0px !important; 
+}
+  
+.col-sm {
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
+
+.coll-2, .coll-3  {
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 1px;
+  float: left;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.coll-2 {
+  width: 50%;
+}
+.video-responsive {
+  position: relative;
+  padding-top: 30px;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  background: rgba(0,0,0,0.1); /*opacidad*/
+  z-index:100;
+  }
+
+ 
+.footer {
+   
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(7, 7, 7);
+   color: white;
+   text-align: center;
+}
+
+  
+
+  @media (max-width: 430px) {
+    .coll-2 {
+      width: 100%;
+  }
+  
+  .jumbotrondavidguetta {
+    background:linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 70%), url(https://i.ibb.co/F3CB86S/yo22.jpg) no-repeat center ;
+   background-attachment:fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+ 
+ }
+
+  }
+
+  
+
+  
+
+  @media screen and (min-width:800px) and (max-width:900px) {
+
+    .jumbotrondavidguetta {
+      background:linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 70%), url(https://i.ibb.co/m59Hsym/yo22tablet.jpg) no-repeat center;
+     
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      background-size: cover;
+      -o-background-size: cover;
+   
+   }
+
+
+  }
+
+  
