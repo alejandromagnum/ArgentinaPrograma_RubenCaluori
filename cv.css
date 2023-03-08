@@ -9,9 +9,13 @@ h1 {
   color: #fff !important;
   margin-left: 3px !important;
 }
-h2 {
+h2{
   
   color: #fff;
+}
+.h3, h3 {
+  font-size: 1.75rem;
+  color: #fff !important; 
 }
 
   .item .item_imagee {
